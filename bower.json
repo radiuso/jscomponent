@@ -16,5 +16,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "tv4": "~1.2.7",
+    "json3": "~3.3.2",
+    "moment": "~2.10.6",
+    "pickadate": "~3.5.6"
+  }
 }
